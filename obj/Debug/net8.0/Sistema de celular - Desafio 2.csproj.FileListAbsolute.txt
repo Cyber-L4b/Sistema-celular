@@ -1,0 +1,14 @@
+D:\Documentos\Documents\Developer\Dio\Bootcamp XP - Full Stack\Sistema de celular - Desafio 2\bin\Debug\net8.0\Sistema de celular - Desafio 2.exe
+D:\Documentos\Documents\Developer\Dio\Bootcamp XP - Full Stack\Sistema de celular - Desafio 2\bin\Debug\net8.0\Sistema de celular - Desafio 2.deps.json
+D:\Documentos\Documents\Developer\Dio\Bootcamp XP - Full Stack\Sistema de celular - Desafio 2\bin\Debug\net8.0\Sistema de celular - Desafio 2.runtimeconfig.json
+D:\Documentos\Documents\Developer\Dio\Bootcamp XP - Full Stack\Sistema de celular - Desafio 2\bin\Debug\net8.0\Sistema de celular - Desafio 2.dll
+D:\Documentos\Documents\Developer\Dio\Bootcamp XP - Full Stack\Sistema de celular - Desafio 2\bin\Debug\net8.0\Sistema de celular - Desafio 2.pdb
+D:\Documentos\Documents\Developer\Dio\Bootcamp XP - Full Stack\Sistema de celular - Desafio 2\obj\Debug\net8.0\Sistema de celular - Desafio 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Documents\Developer\Dio\Bootcamp XP - Full Stack\Sistema de celular - Desafio 2\obj\Debug\net8.0\Sistema de celular - Desafio 2.AssemblyInfoInputs.cache
+D:\Documentos\Documents\Developer\Dio\Bootcamp XP - Full Stack\Sistema de celular - Desafio 2\obj\Debug\net8.0\Sistema de celular - Desafio 2.AssemblyInfo.cs
+D:\Documentos\Documents\Developer\Dio\Bootcamp XP - Full Stack\Sistema de celular - Desafio 2\obj\Debug\net8.0\Sistema de celular - Desafio 2.csproj.CoreCompileInputs.cache
+D:\Documentos\Documents\Developer\Dio\Bootcamp XP - Full Stack\Sistema de celular - Desafio 2\obj\Debug\net8.0\Sistema de celular - Desafio 2.dll
+D:\Documentos\Documents\Developer\Dio\Bootcamp XP - Full Stack\Sistema de celular - Desafio 2\obj\Debug\net8.0\refint\Sistema de celular - Desafio 2.dll
+D:\Documentos\Documents\Developer\Dio\Bootcamp XP - Full Stack\Sistema de celular - Desafio 2\obj\Debug\net8.0\Sistema de celular - Desafio 2.pdb
+D:\Documentos\Documents\Developer\Dio\Bootcamp XP - Full Stack\Sistema de celular - Desafio 2\obj\Debug\net8.0\Sistema de celular - Desafio 2.genruntimeconfig.cache
+D:\Documentos\Documents\Developer\Dio\Bootcamp XP - Full Stack\Sistema de celular - Desafio 2\obj\Debug\net8.0\ref\Sistema de celular - Desafio 2.dll
